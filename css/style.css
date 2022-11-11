@@ -1,0 +1,28 @@
+.header {
+    background-color: #238;
+    height: 20vh;
+    color: #fff;
+}
+.nav {
+    background-color: #000;
+    height: 15vh;
+}
+
+.nav ul li {
+    display: inline;
+}
+
+.left {
+    background-color: aqua;
+    height: 40vh;
+}
+
+.right {
+    background-color: #f00;
+    height: 40vh;
+}
+
+.footer {
+    background-color: #852;
+    height: 15vh;
+}
