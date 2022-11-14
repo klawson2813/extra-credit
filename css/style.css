@@ -1,28 +1,42 @@
-.header {
-    background-color: #238;
-    height: 20vh;
-    color: #fff;
+* {
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
 }
+.header {
+  background-color: #238;
+  color: #fff;
+  height: 5vh;
+}
+
 .nav {
-    background-color: #000;
-    height: 15vh;
+  background-color: #000;
+  height: 5vh;
 }
 
 .nav ul li {
-    display: inline;
+  display: inline;
 }
 
 .left {
-    background-color: aqua;
-    height: 40vh;
-}
-
-.right {
-    background-color: #f00;
-    height: 40vh;
-}
-
-.footer {
-    background-color: #852;
     height: 15vh;
+}
+
+.Section {
+  background-color: aqua;
+  width: 100%;
+}
+
+.Article {
+  background-color: #655;
+}
+
+.Aside {
+  background-color: #f00;
+}
+
+.Footer {
+  background-color: #852;
+  height: 5vh; 
 }
